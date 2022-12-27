@@ -1,0 +1,36 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "bambang70",
+            "email": "bambang@mail.com",
+            "password": "bambang123"
+        },
+        {
+            "id": 2,
+            "username": "udin19",
+            "email": "udin19@gmail.com",
+            "password": "udin321"
+        }
+    ],
+    "teams": [
+        {
+            "id": 1,
+            "team_name": "Manchester United",
+            "city": "Manchester, UK",
+            "stadium_name": "Old Trafford"
+        },
+        {
+            "id": 2,
+            "team_name": "Real Madrid",
+            "city": "Madrid, Spain",
+            "stadium_name": "Santiago Bernabeu"
+        },
+        {
+            "id": 3,
+            "team_name": "AC Milan",
+            "city": "Milan, Italy",
+            "stadium_name": "San Siro"
+        }
+    ]
+}
